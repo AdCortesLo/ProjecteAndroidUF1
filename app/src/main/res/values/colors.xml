@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1DB627</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="greyBackgroundFragment">#FFFFFF</color>
+    <color name="YellowBackground">#FFEA00</color>
+    <color name="YellowBackgroundButton">#746E31</color>
+    <color name="yellowBackground">#FFEA00</color>
+    <color name="yellowBackgroundButton">#837B27</color>
+</resources>

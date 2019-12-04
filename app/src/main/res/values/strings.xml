@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjecteAndroidUF1</string>
+    <string-array name="genres">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Non-binary</item>
+        <item>Prefer not to tell</item>
+    </string-array>
+    <string-array name="Rps">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
